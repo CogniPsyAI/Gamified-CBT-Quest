@@ -80,7 +80,9 @@ Gamified-CBT-Quest addresses key barriers in mental health care:
 **Phase 2 – Research & Validation**
 - Engagement metrics analysis  
 - Outcome-based evaluation  
-- Ethical AI integration  
+- Ethical AI integration
+
+### Work in Progress....
 
 ---
 
